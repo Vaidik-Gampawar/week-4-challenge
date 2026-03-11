@@ -3,4 +3,5 @@ build in feature-update branch
 
 good commit
 second good commit
+bad commit
 third good commit
